@@ -54,11 +54,12 @@ A machine learning project that predicts which customers are likely to stop usin
    git clone https://github.com/your-username/churn-prediction.git
    cd churn-prediction
 2. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
-3. **Run the notebook**
+4. **Run the notebook**
 -Open Code.ipynb in Jupyter Notebook or JupyterLab
 -Follow the steps for data cleaning, feature engineering, modeling, and evaluation
-4. **Review analysis**
+5. **Review analysis**
 -Check churn_prediction_analysis.pdf for business insights and visualizations
 -Use churn_prediction.csv for further analysis or reporting
 
