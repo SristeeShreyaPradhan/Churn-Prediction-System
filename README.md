@@ -33,7 +33,6 @@ A machine learning project that predicts which customers are likely to stop usin
 | Pandas / NumPy     | Data preprocessing and transformation    |
 | scikit-learn       | Model training and evaluation            |
 | XGBoost            | Gradient boosting classification         |
-| Matplotlib / Seaborn| Visualizing churn drivers               |
 | Power BI           | Business dashboards                      |
 
 
