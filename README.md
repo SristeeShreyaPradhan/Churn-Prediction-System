@@ -47,7 +47,7 @@ A machine learning project that predicts which customers are likely to stop usin
 - `README.md` — Project overview and instructions
 
 --
-## 📦 How to Use
+## 🚀 How to Use
 
 1. **Clone the repository**
    ```bash
